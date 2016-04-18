@@ -94,7 +94,7 @@
                         </div>
                         <div class="panel-collapse collapse" id="faq4">
                             <div class="panel-body">
-                                Total amount of coloredchain tokens is 100 million,fixed,no inflation.
+                                Total amount of coloredchain tokens is 64,570,081,fixed,no inflation.
                             </div>
                         </div>
                     </div><!--//panel--> 
@@ -109,7 +109,7 @@
                         <b>Consensus Algorithm</b>&nbsp;Powered proof of stake
                     </p>
 					<p>
-                        <b>Total Amount</b>&nbsp; 100 million,fixed.
+                        <b>Total Amount</b>&nbsp; 64,570,081,fixed.
                     </p>
 					<p>
                         <b>Block Time</b>&nbsp; 30 seconds both for masterchain and sidechains
@@ -135,20 +135,20 @@
                                 Coloredchain tokens will be distributed by ICO(Initial Coin Offering) in genesis block.
 								<p>All tokens(except reserved) will be distributed to participants one time at release proportional to the raised fund.
 								</p>The detailed plan as following:
-								<p>Total amount of coloredchain tokens is 100 million.
+								<p>Total amount of coloredchain tokens is 64,570,081.
 								<ul> 
-								    <li>82 million for open ICO.</li>
-									<li>13 million reserved for development and marketing of Foundation(Hold by community).</li>
-									<li>4 million reserved for partners.</li>
-									<li>1 milion for ICO bounty.</li>
+								    <li>52,947,466 (82%) for open ICO.</li>
+									<li>8,394,110 (13%) reserved for development and marketing of Foundation(Hold by community).</li>
+									<li>2,582,803 (4%) reserved for partners.</li>
+									<li>645,700 (1%) for ICO bounty.</li>
 									  <ul>
-									  <li>400000 for Bitcointalk signature campaign participants.</li>
-									  <li>200000 for Coloredchain twitter followers.	</li>
-									  <li>200000 for joining Coloredchain facebook group.</li>
-									  <li>200000 for local language translation and management.</li>
+									  <li>193,710 for Bitcointalk signature campaign participants.</li>
+									  <li>129,140 for Coloredchain twitter followers.	</li>
+									  <li>129,140 for joining Coloredchain facebook group.</li>
+									  <li>193,710 for local language translation and management.</li>
                                       </ul>									
 								</ul>
-								</p>							
+								</p>								
 								All these bounties will be distributed after ICO.				
                             </div>
                         </div>
@@ -160,7 +160,7 @@
                         </div>
                         <div class="panel-collapse collapse" id="faq7">
                             <div class="panel-body">
-                               Yes.Details visit <a href="">coloredchain blog</a>.
+                               Yes.Details visit <a href="https://blog.coloredchain.com/ico-bounty-campaign-details-27013302cb51#.95oulx9pu" target="_blank">coloredchain blog</a>.
                             </div>
                         </div>
                     </div><!--//panel-->

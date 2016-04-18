@@ -30,7 +30,7 @@
                         With coloredchain,users and developers can create decentralized applications on their own sidechains easily through the 3 level dapps deployment framework. 
                     <p>
                     </p>
-                        No ming,no inflation,lightweight,and it’s also suitable well to run nodes on multi-devices with trim feature,including VPS,PC,even smartphone and raspberry pi.
+                        No mining,no inflation,lightweight,and it’s also suitable well to run nodes on multi-devices with trim feature,including VPS,PC,even smartphone and raspberry pi.
                     </p>
 					<center><img src="/assets/images/dapps/dapp-1.png" height="440" width="670" /></center>
                     <p style="font-size:23px">
@@ -64,7 +64,7 @@
                         <b>Consensus Algorithm</b>&nbsp;Powered proof of stake
                     </p>
 					<p>
-                        <b>Total Amount</b>&nbsp; 100 million,fixed.
+                        <b>Total Amount</b>&nbsp; 64,570,081,fixed.
                     </p>
 					<p>
                         <b>Block Time</b>&nbsp; 30 seconds both for masterchain and sidechains
